@@ -9,3 +9,6 @@ https://docs.docker.com/compose/
 
 4. Docker Hub Repo
 https://hub.docker.com/explore/
+
+5. Docker Swarm Arch
+https://blog.octo.com/en/how-does-it-work-docker-part-1-swarm-general-architecture/
