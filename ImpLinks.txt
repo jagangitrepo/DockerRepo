@@ -1,0 +1,11 @@
+1. How To Set Up a Private Docker Registry on Ubuntu 14.04
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-14-04
+
+2.How To Install and Use Docker on Ubuntu 16.04
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04#step-7-%E2%80%94-listing-docker-containers
+
+3. Docker Compose
+https://docs.docker.com/compose/
+
+4. Docker Hub Repo
+https://hub.docker.com/explore/
