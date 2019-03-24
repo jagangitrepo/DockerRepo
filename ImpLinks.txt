@@ -12,3 +12,15 @@ https://hub.docker.com/explore/
 
 5. Docker Swarm Arch
 https://blog.octo.com/en/how-does-it-work-docker-part-1-swarm-general-architecture/
+
+6. Docker cmd cheat sheet
+https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+
+7. Docker file cheat sheet
+https://devhints.io/dockerfile
+
+8. Docker-in-docker
+http://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/
+
+9. Docker-in-docker ( CI jenkins )
+https://itnext.io/docker-in-docker-521958d34efd
